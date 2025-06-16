@@ -1,10 +1,9 @@
-# Natural and Professional LinkedIn Headshot Generator
+# Natural and Professional LinkedIn AI Headshot Generator
 
 Create the **most realistic** and **affordable** AI-generated headshots for LinkedIn, resumes, and social media — in minutes.
 
-![AI LinkedIn Headshot Example](https://yourdomain.com/images/sample-headshot.jpg "Professional AI Headshot")
 
-[Try it now →](https://yourdomain.com)  
+[Try it now →](https://www.headshotnatural.com/)  
 ⭐ Trusted by professionals | ✅ 100+ headshots generated | ⏱️ Just 1 selfie needed
 
 ---
@@ -21,7 +20,7 @@ Create the **most realistic** and **affordable** AI-generated headshots for Link
 ## Sample Headshots
 
 
- ![Headshot Effect]([https://yourdomain.com/images/after.jpg](https://www.headshotnatural.com/example-left.png)) |
+ ![Headshot Effect](https://www.headshotnatural.com/example-left.png)) |
 
 ---
 
