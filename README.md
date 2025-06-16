@@ -20,7 +20,7 @@ Create the **most realistic** and **affordable** AI-generated headshots for Link
 ## Sample Headshots
 
 
- ![Headshot Effect](https://www.headshotnatural.com/example-left.png)) |
+ ![Headshot Effect](https://www.headshotnatural.com/example-left.png)
 
 ---
 
